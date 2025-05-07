@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">latihan 2 resycle</string>
+    <string name="title_activity_name_list">Activity_name_list</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
